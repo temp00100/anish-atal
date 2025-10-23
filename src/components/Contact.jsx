@@ -21,8 +21,8 @@ export default function Contact() {
               </div>
             </div>
             <h3 className="text-xs sm:text-sm md:text-base font-bold text-foreground mb-1 sm:mb-2">Call Us</h3>
-            <a href="tel:+18001234567" className="text-xs sm:text-sm md:text-base text-primary hover:opacity-80 transition break-all">
-              +91-9982943996
+            <a href="tel:+91 7734077750" className="text-xs sm:text-sm md:text-base text-primary hover:opacity-80 transition break-all">
+              +91 7734077750
             </a>
           </div>
 

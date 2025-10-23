@@ -45,7 +45,7 @@ export default function Header() {
             <img
               src={`/icon.png`}
               alt="Atal Services Logo"
-              className="w-18 h-18 lg:w-[80px] lg:h-18 rounded-full"
+              className="w-16 h-16 lg:w-20 lg:h-20 rounded-full"
             />
             <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-primary"><p>Atal Services</p></h1>
           </div>

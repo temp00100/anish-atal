@@ -17,7 +17,7 @@ export default function About() {
               We're committed to providing exceptional services for homes, offices, businesses, and more. Your satisfaction is our guarantee.
             </p>
             <a
-              href="tel:+18001234567"
+              href="tel:+91 7734077750"
               className="inline-block px-8 py-3 bg-primary text-white rounded-full font-medium hover:opacity-90 transition-opacity"
             >
               Get in Touch

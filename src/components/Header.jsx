@@ -18,7 +18,7 @@ export default function Header() {
             <div className="flex items-center gap-6">
               <div className="flex items-center gap-2">
                 <Phone size={16} />
-                <span>+91-9982943996</span>
+                <span>+91 7734077750</span>
               </div>
               <div className="flex items-center gap-2">
                 <MapPin size={16} />
@@ -68,7 +68,7 @@ export default function Header() {
 
           {/* CTA Button */}
           <a
-            href="tel:+18001234567"
+            href="tel:+917734077750"
             className="hidden md:inline-flex items-center gap-2 px-6 py-2 bg-primary text-white rounded-full font-medium hover:opacity-90 transition-opacity"
           >
             <Phone size={18} />
@@ -102,7 +102,7 @@ export default function Header() {
                 Contact
               </a>
               <a
-                href="tel:+18001234567"
+                href="tel:+917734077750"
                 className="flex items-center gap-2 px-6 py-2 bg-primary text-white rounded-full font-medium hover:opacity-90 transition-opacity w-fit"
               >
                 <Phone size={18} />

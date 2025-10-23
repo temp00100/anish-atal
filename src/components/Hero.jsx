@@ -13,11 +13,11 @@ export default function Hero() {
           </p>
           
           <a
-            href="tel:+18001234567"
+            href="tel:+917734077750"
             className="inline-flex items-center gap-2 px-8 py-4 bg-primary text-white rounded-full font-medium hover:opacity-90 transition-opacity text-lg"
           >
             <Phone size={20} />
-            +91-9982943996
+            +91-7734077750
           </a>
         </div>
       </div>

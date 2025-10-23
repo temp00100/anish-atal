@@ -54,8 +54,8 @@ export default function QuickService() {
                 </div>
                 <div>
                   <h4 className="text-sm sm:text-base font-bold text-foreground mb-1">Call Us Anytime</h4>
-                  <a href="tel:+18001234567" className="text-xs sm:text-sm md:text-base text-primary hover:opacity-80">
-                    +91-9982943996
+                  <a href="tel:+917734077750" className="text-xs sm:text-sm md:text-base text-primary hover:opacity-80">
+                    +91-7734077750
                   </a>
                 </div>
               </div>
